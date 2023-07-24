@@ -12,7 +12,7 @@
 	<artifactId>library-verse</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>library-verse</name>
-	<description>Library-Verse is an online library that helps to connect the library and its book with readers</description>
+	<description>Library-Verse is an online library that helps to connect the library and its book with reader.</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
